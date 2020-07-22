@@ -1,0 +1,2 @@
+Contoh.PrivateModifier
+Contoh.Latihan
